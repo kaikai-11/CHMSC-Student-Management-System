@@ -1,4 +1,4 @@
-# CHMSC-Student-Management-System
+# WaterBilling-System
 When you click "add client", 
 ![image](https://user-images.githubusercontent.com/56795018/221333339-79de63bb-6abf-4eed-ba3a-3a1aadddcd39.png)
 
