@@ -7,7 +7,7 @@ Password:123
 
 vendors: https://itsourcecode.com/free-projects/php-project/billing-system-in-php-with-source-code/
 
-Vulnerability File: /billing/addclient1.php HTTP/1.1
+Vulnerability File: /billing/addclient1.php
 
 Vulnerability location: /billing/addclient1.php HTTP/1.1
 
